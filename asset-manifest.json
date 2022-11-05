@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lorem/static/css/main.073c9b0a.css",
+    "main.js": "/lorem/static/js/main.71d141ce.js",
+    "static/js/787.958a38fd.chunk.js": "/lorem/static/js/787.958a38fd.chunk.js",
+    "static/media/logo.svg": "/lorem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lorem/index.html",
+    "main.073c9b0a.css.map": "/lorem/static/css/main.073c9b0a.css.map",
+    "main.71d141ce.js.map": "/lorem/static/js/main.71d141ce.js.map",
+    "787.958a38fd.chunk.js.map": "/lorem/static/js/787.958a38fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.71d141ce.js"
+  ]
+}
